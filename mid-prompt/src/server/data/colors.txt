@@ -1,0 +1,20 @@
+Monochromatic: Utilizing various shades, tones, and tints of a single color.
+Analogous: Colors that are adjacent to each other on the color wheel.
+Complementary: Colors that are opposite each other on the color wheel.
+Split-Complementary: A variation of the complementary color scheme, using one base color and two adjacent to its complementary.
+Triadic: Three colors equally spaced around the color wheel.
+Tetradic (Double Complementary): Four colors arranged in two complementary pairs.
+Square: Four colors evenly spaced around the color wheel.
+Neutral: Shades of whites, grays, and blacks.
+Warm Colors: Colors that convey warmth, such as reds, oranges, and yellows.
+Cool Colors: Colors that convey coolness, such as blues, greens, and purples.
+Pastel: Soft, pale colors.
+Earth Tones: Colors inspired by nature, such as browns, greens, and blues.
+Jewel Tones: Rich, vibrant colors that resemble gemstones, like ruby red or sapphire blue.
+Metallic Colors: Colors that resemble metals, such as gold, silver, and bronze.
+Muted Colors: Colors that are subdued or desaturated.
+Rainbow: All the colors of the spectrum, often used in a specific order.
+Gradient: A gradual blend from one color to another.
+Duotone: A scheme using two contrasting colors.
+High Contrast: A scheme with colors that have significant differences in lightness and darkness.
+Achromatic: A color scheme without color, using only blacks, whites, and grays.
