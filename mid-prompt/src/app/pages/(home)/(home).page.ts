@@ -11,6 +11,7 @@ export const routeMeta: RouteMeta = {
 
 @Component({
   standalone: true,
+  selector: "mid-prompt-(home)",
   imports: [CommonModule],
   templateUrl: "./(home).page.html",
   styleUrls: ["./(home).page.scss"],
