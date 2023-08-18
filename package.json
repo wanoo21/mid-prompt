@@ -2,7 +2,10 @@
   "name": "@mid-prompt/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "start": "nx run mid-prompt:serve",
+    "build": "nx run mid-prompt:build"
+  },
   "private": true,
   "dependencies": {
     "@analogjs/content": "^0.2.0-rc.5",

@@ -8,9 +8,9 @@
       "executor": "@nx/vite:build",
       "outputs": [
         "{options.outputPath}",
-        "dist/./mid-prompt/.nitro",
-        "dist/./mid-prompt/ssr",
-        "dist/./mid-prompt/analog"
+        "{workspaceRoot}/dist/mid-prompt/.nitro",
+        "{workspaceRoot}/dist/mid-prompt/ssr",
+        "{workspaceRoot}/dist/mid-prompt/analog"
       ],
       "options": {
         "main": "./mid-prompt/src/main.ts",
@@ -53,7 +53,7 @@
     },
     "test": {
       "executor": "@nx/vite:test",
-      "outputs": ["./mid-prompt/coverage"]
+      "outputs": ["{projectRoot}/mid-prompt/coverage"]
     },
     "lint": {
       "executor": "@nx/linter:eslint",
