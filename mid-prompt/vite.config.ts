@@ -13,7 +13,9 @@ export default defineConfig(({ mode }) => {
       target: ['es2020'],
     },
     plugins: [
-      analog(),
+      analog({
+        ssr: true,
+      }),
       tsConfigPaths({
         root: '../',
       }),
